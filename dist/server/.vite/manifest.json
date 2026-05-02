@@ -1,0 +1,195 @@
+{
+  "%23tanstack-start-plugin-adapters": {
+    "file": "assets/__23tanstack-start-plugin-adapters-Cwee5PKy.js",
+    "name": "__23tanstack-start-plugin-adapters",
+    "src": "%23tanstack-start-plugin-adapters",
+    "isDynamicEntry": true
+  },
+  "C:/Users/pc/Documents/school-harmony-hub-main/src/styles.css": {
+    "file": "assets/styles-CpsbHscl.css",
+    "src": "C:/Users/pc/Documents/school-harmony-hub-main/src/styles.css"
+  },
+  "_worker-entry-Co622Z_7.js": {
+    "file": "assets/worker-entry-Co622Z_7.js",
+    "name": "worker-entry",
+    "dynamicImports": [
+      "tanstack-start-manifest:v",
+      "src/router.tsx",
+      "node_modules/@tanstack/react-start/dist/plugin/default-entry/start.ts",
+      "%23tanstack-start-plugin-adapters"
+    ]
+  },
+  "node_modules/@tanstack/react-start/dist/plugin/default-entry/start.ts": {
+    "file": "assets/start-HYkvq4Ni.js",
+    "name": "start",
+    "src": "node_modules/@tanstack/react-start/dist/plugin/default-entry/start.ts",
+    "isDynamicEntry": true
+  },
+  "src/assets/edumanager-logo.png": {
+    "file": "assets/edumanager-logo-CLTiHfce.png",
+    "src": "src/assets/edumanager-logo.png"
+  },
+  "src/assets/school-finary-logo.png": {
+    "file": "assets/school-finary-logo-ChaSIY1l.png",
+    "src": "src/assets/school-finary-logo.png"
+  },
+  "src/assets/screenshots/edu-archives.jpg": {
+    "file": "assets/edu-archives-bTJ_6jmA.jpg",
+    "src": "src/assets/screenshots/edu-archives.jpg"
+  },
+  "src/assets/screenshots/edu-audit.png": {
+    "file": "assets/edu-audit-CSoeLD3S.png",
+    "src": "src/assets/screenshots/edu-audit.png"
+  },
+  "src/assets/screenshots/edu-bulletin.png": {
+    "file": "assets/edu-bulletin-BHncQ5ZL.png",
+    "src": "src/assets/screenshots/edu-bulletin.png"
+  },
+  "src/assets/screenshots/edu-calendar.png": {
+    "file": "assets/edu-calendar-hRIefu4j.png",
+    "src": "src/assets/screenshots/edu-calendar.png"
+  },
+  "src/assets/screenshots/edu-classes.jpg": {
+    "file": "assets/edu-classes-DqhbV_vM.jpg",
+    "src": "src/assets/screenshots/edu-classes.jpg"
+  },
+  "src/assets/screenshots/edu-dashboard.png": {
+    "file": "assets/edu-dashboard-0NlIenMQ.png",
+    "src": "src/assets/screenshots/edu-dashboard.png"
+  },
+  "src/assets/screenshots/edu-dashboard2.png": {
+    "file": "assets/edu-dashboard2-CPaqzvgg.png",
+    "src": "src/assets/screenshots/edu-dashboard2.png"
+  },
+  "src/assets/screenshots/edu-eleves.jpg": {
+    "file": "assets/edu-eleves-G4tFfiTf.jpg",
+    "src": "src/assets/screenshots/edu-eleves.jpg"
+  },
+  "src/assets/screenshots/edu-emploi.jpg": {
+    "file": "assets/edu-emploi-CgTjIMN6.jpg",
+    "src": "src/assets/screenshots/edu-emploi.jpg"
+  },
+  "src/assets/screenshots/edu-finances.jpg": {
+    "file": "assets/edu-finances-Ds6sIHBP.jpg",
+    "src": "src/assets/screenshots/edu-finances.jpg"
+  },
+  "src/assets/screenshots/edu-notes.png": {
+    "file": "assets/edu-notes-7IcChQ12.png",
+    "src": "src/assets/screenshots/edu-notes.png"
+  },
+  "src/assets/screenshots/edu-notes2.jpg": {
+    "file": "assets/edu-notes2-C_JZyZJu.jpg",
+    "src": "src/assets/screenshots/edu-notes2.jpg"
+  },
+  "src/assets/screenshots/edu-paie.jpg": {
+    "file": "assets/edu-paie-CLzhg9SQ.jpg",
+    "src": "src/assets/screenshots/edu-paie.jpg"
+  },
+  "src/assets/screenshots/edu-primaire.jpg": {
+    "file": "assets/edu-primaire-BliV-2FA.jpg",
+    "src": "src/assets/screenshots/edu-primaire.jpg"
+  },
+  "src/assets/screenshots/edu-stats.png": {
+    "file": "assets/edu-stats-UD7jXoek.png",
+    "src": "src/assets/screenshots/edu-stats.png"
+  },
+  "src/assets/screenshots/sf-calendrier.jpg": {
+    "file": "assets/sf-calendrier-DjwOtKEc.jpg",
+    "src": "src/assets/screenshots/sf-calendrier.jpg"
+  },
+  "src/assets/screenshots/sf-dashboard.png": {
+    "file": "assets/sf-dashboard-C3pt6tc9.png",
+    "src": "src/assets/screenshots/sf-dashboard.png"
+  },
+  "src/assets/screenshots/sf-eleves.jpg": {
+    "file": "assets/sf-eleves-BY2JiHWK.jpg",
+    "src": "src/assets/screenshots/sf-eleves.jpg"
+  },
+  "src/assets/screenshots/sf-heures.jpg": {
+    "file": "assets/sf-heures-6O710cns.jpg",
+    "src": "src/assets/screenshots/sf-heures.jpg"
+  },
+  "src/assets/screenshots/sf-impayes.png": {
+    "file": "assets/sf-impayes-CDi1Td56.png",
+    "src": "src/assets/screenshots/sf-impayes.png"
+  },
+  "src/assets/screenshots/sf-payments.png": {
+    "file": "assets/sf-payments-6CNYw5l_.png",
+    "src": "src/assets/screenshots/sf-payments.png"
+  },
+  "src/assets/screenshots/sf-personnel.jpg": {
+    "file": "assets/sf-personnel-BO0WhUDt.jpg",
+    "src": "src/assets/screenshots/sf-personnel.jpg"
+  },
+  "src/assets/screenshots/sf-stats.jpg": {
+    "file": "assets/sf-stats-dGm2FcE7.jpg",
+    "src": "src/assets/screenshots/sf-stats.jpg"
+  },
+  "src/router.tsx": {
+    "file": "assets/router-B-amilKv.js",
+    "name": "router",
+    "src": "src/router.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_worker-entry-Co622Z_7.js"
+    ],
+    "dynamicImports": [
+      "src/routes/index.tsx?tsr-split=component"
+    ],
+    "assets": [
+      "assets/styles-CpsbHscl.css"
+    ]
+  },
+  "src/routes/index.tsx?tsr-split=component": {
+    "file": "assets/index-BJXuNOdI.js",
+    "name": "index",
+    "src": "src/routes/index.tsx?tsr-split=component",
+    "isDynamicEntry": true,
+    "imports": [
+      "_worker-entry-Co622Z_7.js",
+      "src/router.tsx"
+    ],
+    "assets": [
+      "assets/school-finary-logo-ChaSIY1l.png",
+      "assets/edumanager-logo-CLTiHfce.png",
+      "assets/sf-dashboard-C3pt6tc9.png",
+      "assets/edu-dashboard-0NlIenMQ.png",
+      "assets/sf-payments-6CNYw5l_.png",
+      "assets/sf-impayes-CDi1Td56.png",
+      "assets/edu-dashboard2-CPaqzvgg.png",
+      "assets/edu-notes-7IcChQ12.png",
+      "assets/edu-bulletin-BHncQ5ZL.png",
+      "assets/edu-calendar-hRIefu4j.png",
+      "assets/edu-stats-UD7jXoek.png",
+      "assets/edu-audit-CSoeLD3S.png",
+      "assets/sf-eleves-BY2JiHWK.jpg",
+      "assets/sf-personnel-BO0WhUDt.jpg",
+      "assets/sf-heures-6O710cns.jpg",
+      "assets/sf-stats-dGm2FcE7.jpg",
+      "assets/sf-calendrier-DjwOtKEc.jpg",
+      "assets/edu-eleves-G4tFfiTf.jpg",
+      "assets/edu-classes-DqhbV_vM.jpg",
+      "assets/edu-finances-Ds6sIHBP.jpg",
+      "assets/edu-paie-CLzhg9SQ.jpg",
+      "assets/edu-emploi-CgTjIMN6.jpg",
+      "assets/edu-primaire-BliV-2FA.jpg",
+      "assets/edu-archives-bTJ_6jmA.jpg",
+      "assets/edu-notes2-C_JZyZJu.jpg"
+    ]
+  },
+  "tanstack-start-manifest:v": {
+    "file": "assets/_tanstack-start-manifest_v-EErJTPF4.js",
+    "name": "_tanstack-start-manifest_v",
+    "src": "tanstack-start-manifest:v",
+    "isDynamicEntry": true
+  },
+  "virtual:cloudflare/worker-entry": {
+    "file": "index.js",
+    "name": "index",
+    "src": "virtual:cloudflare/worker-entry",
+    "isEntry": true,
+    "imports": [
+      "_worker-entry-Co622Z_7.js"
+    ]
+  }
+}
